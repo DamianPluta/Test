@@ -1,3 +1,4 @@
 # Test
 test-repo
-Repro_testowe
+
+Moje pierwsze repro w Git
